@@ -7,3 +7,5 @@ for (var i = 0; i < 10; i++) {
 	console.log(b + a + 10);
 	b = a + 2;
 };
+
+var feature = "E52";
